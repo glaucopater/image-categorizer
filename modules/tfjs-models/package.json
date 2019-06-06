@@ -7,16 +7,16 @@
     "presubmit": "ts-node presubmit.ts"
   },
   "devDependencies": {
-    "@types/node": "~10.3.4",
-    "@types/shelljs": "~0.8.0",
-    "clang-format": "~1.2.2",
-    "fs": "~0.0.1-security",
-    "jasmine": "~3.1.0",
-    "shelljs": "0.8.2",
-    "ts-node": "~5.0.0",
-    "tslint": "~5.13.0",
-    "tslint-no-circular-imports": "~0.6.1",
-    "typescript": "~2.9.2",
+    "@types/node": "~12.0.5",
+    "@types/shelljs": "~0.8.5",
+    "clang-format": "~1.2.4",
+    "fs": "~0.0.2",
+    "jasmine": "~3.4.0",
+    "shelljs": "0.8.3",
+    "ts-node": "~8.2.0",
+    "tslint": "~5.17.0",
+    "tslint-no-circular-imports": "~0.7.0",
+    "typescript": "~3.5.1",
     "yalc": "~1.0.0-pre.21"
   },
   "license": "Apache-2.0"
